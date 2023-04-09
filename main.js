@@ -17,6 +17,6 @@ Should return:
 
 //👉 Write the function your CodeWarriors will start with below here:
 
-function ROYGBIV(input) {
+export function ROYGBIV(input) {
 
 }
